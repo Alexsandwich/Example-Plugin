@@ -1,0 +1,8 @@
+name: ExamplePlugin
+main: me.alexander.ExamplePlugin
+version: 0.1.0
+author: Alexander Milanovich
+commands:
+  test:
+    description: Your description
+    usage: /test
