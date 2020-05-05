@@ -11,7 +11,6 @@ import org.bukkit.event.player.PlayerLoginEvent;
 public class ExampleJoinEvent implements Listener {
 
     /**
-     *
      * @param event the call to obtain information about the event
      */
 
