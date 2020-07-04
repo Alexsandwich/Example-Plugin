@@ -1,5 +1,5 @@
 # Example-Plugin
-An example minecraft plugin for 1.15 to help new developers
+An example minecraft plugin for 1.16 to help new developers
 
 In this project there are 3 main parts
 * The main source code
